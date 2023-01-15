@@ -1,0 +1,24 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://vcdn1-dulich.vnecdn.net/2016/08/12/3-1470966611.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=E3Pa53DxHPzUdaTEtu5J_g);
+  width: 100%;
+  height: 400px;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://znews-photo.zingcdn.me/w660/Uploaded/zbvunua/2022_02_28/Geographical_Magazine_1.jpg);
+  width: 100%;
+  height: 400px;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://vcdn1-vnexpress.vnecdn.net/2020/09/25/Screenshot-413-1680-1601017659.png?w=0&h=0&q=100&dpr=2&fit=crop&s=T5GWKm78c6oRsdSJvB_rdQ);
+  width: 100%;
+  height: 400px;
+}
+footer {
+  margin-top: 150px;
+}
